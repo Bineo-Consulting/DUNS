@@ -147,7 +147,7 @@ const proxy = functions.region('us-central1').https.onRequest(async (req, res) =
   }
 
   if (aux.host) {
-    const urlParse = new Url(aux.host)
+    const urlParse = new URL(aux.host)
     aux.hostname = urlParse.host
   }
 

@@ -73,6 +73,10 @@
 --------------------------------------------------------------*/
 @import "layout/footer";
 
+html {
+  scroll-behavior: smooth;
+}
+
 .filter-brighness.filter-dropshadow {
   filter: drop-shadow(rgb(136, 136, 136) 1px 1px 0px) brightness(1.1) saturate(1.3);
 }

@@ -1,0 +1,27 @@
+{
+  "home_title": "All the biodiversity<br/>observations in one place",
+  "observations": "observations",
+  "last_obersations": "Last observations",
+  "need_login": "You need to be logged",
+  "share": "Share",
+  "social": "on social networks",  
+  "english": "English",
+  "spanish": "Spanish",
+  "french": "French",
+  "german": "German",
+  "no_results": "No results",
+  "alert": "Alert",
+  "contact": "Contact",
+  "more_info": "More info",
+  "errorSearch": "Error searching",
+  "selectSpeciePlace": "You must select \"place\" or \"specie\" of the list",
+  "footer": {
+    "about": "About",
+    "help": "Help",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "term": "Terms of Service",
+    "follow_us": "Follow us:",
+    "h2020": "This project has received funding from the European Union’s Horizon 2020 Research and Innovation Programme under Grant <a class='link' href='https://cordis.europa.eu/project/id/863463/en' rel='noopener' target='_blank'>Agreement No 863463</a>"
+  }
+}

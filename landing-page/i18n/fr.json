@@ -1,0 +1,116 @@
+{
+  "home_title": "Toutes les observations de la biodiversité<br/>en un seul endroit",
+  "observations": "observations",
+  "last_obersations": "Dernières observations",
+  "need_login": "Vous devez être connecté",
+  "share": "Partager",
+  "social": "réseaux sociaux",
+  "english": "Anglais",
+  "spanish": "Espagnol",
+  "french": "Français",
+  "german": "Allemand",
+  "no_results": "Aucun résultat.",
+  "alert": "Alerte.",
+  "errorSearch": "Erreur de recherche.",
+  "selectSpeciePlace": "Vous devez sélectionner \"lieu\" ou \"espèce\" de la liste.",  
+  "menu": {
+    "logout": "Déconnexion",
+    "settings": "Réglages",
+    "history": "Historique des téléchargements"
+  },
+  "login": {
+    "login": "Connexion",
+    "user": "Utilisateur",
+    "password": "Mot de passe",
+    "message": "Vous allez vous connecter à l'aide du système d'authentification fédérée Authenix; pour plus d'informations, visitez le site web"
+  },
+  "filters": {
+    "search_species": "Rechercher des espèces",
+    "search_places": "Rechercher par lieu géographique",
+    "filter": "Filtres",
+    "types": "Types",
+    "search": "Chercher",
+    "quality": "Qualité",
+    "research": "Rechercher",
+    "casual": "Amateur",
+    "with_geo": "Avec geo",
+    "with_photos": "Photos",
+    "licenses": "Licences",
+    "date": "Date ",
+    "portals": "Portails",
+    "geo": "Avec géolocalisation",
+    "photos": "Photos"
+  },
+  "user": {
+    "logout": "Déconnexion",
+    "info": "Info",
+    "role": "Rôle",
+    "identifications": "identification",
+    "species": "espèces",
+    "types": "types",
+    "city": "Ville",
+    "description": "Libellé",
+    "update": "Actualiser",
+    "agreeNotifications": "J'accepte de recevoir des notifications par email",
+    "agreeTerms": "Je suis d'accord avec les termes et conditions."
+  },
+  "profile": {
+    "nickname": "Pseudonyme",
+    "name": "Nom",
+    "email": "Email",
+    "profession": "Métier",
+    "city": "Ville",
+    "comments": "Commentaires",
+    "identifications": "Identifications",
+    "email-noti": "Adresse email (pour recevoir des notifications)"
+  },
+  "stats": {
+    "comments_identi": "Commentaires et identifications",
+    "all": "Tout",
+    "comm_id_by_portal": "% Commentaires & Identifications par Portail",
+    "downloads": "Télécharger",
+    "downloads_reasons": "% Raison du téléchargement"
+  },
+  "download": {
+    "download_title": "Télécharger",
+    "download_title_modal": "Sélectionnez votre/vos raison(s) de téléchargement:",
+    "download_history": "Historique des téléchargements",
+    "format": "Formater",
+    "re_run": "Ré-exécuter",
+    "view": "Voir"
+  },
+  "downloads_reasons_type": {
+    "biosecurity management/planning": "Action/stratégie liée à la biosécurité",
+    "citizen science": "Science citoyenne",
+    "collection management": "Gestion de collection",
+    "conservation management/planning": "Action/stratégie liée à la conservation",
+    "ecological research": "Recherche en écologie",
+    "education": "Éducation",
+    "environmental assessment": "Évaluation environnementale",
+    "restoration/remediation": "Restauration/réhabilitation",
+    "scientific research": "Recherche scientifique",
+    "systematic research/taxonomy": "Recherche en systématique/taxonomie",
+    "species modelling": "Modélisation d'espèces",
+    "testing": "Test",
+    "other": "Autre"
+  },
+  "comments": {
+    "comments": "Commentaires",
+    "identification": "Identification",
+    "type_comment": "Saisir vos commentaires...",
+    "add_identification": "Envoyer",
+    "has_identified": "Observation identifiée",
+    "add_comment_identification": "Ajouter un commentaire/une identification",
+    "help": " (Besoin d'aide)",
+    "someone": "Quelqu'un"
+  },
+  "footer": {
+    "about": "À propos",
+    "help": "Aide",
+    "privacy": "Politique de confidentialité",
+    "term": "Conditions d'utilisation",
+    "contact": "Contact",
+    "follow_us": "Suivez-nous :",
+    "h2020": "Ce projet a reçu un financement du programme Horizon 2020 Research and Innovation de l'Union Européenne, au titre de <a class='link' href='https://cordis.europa.eu/project/id/863463/fr' rel='noopener' target='_blank'>l'accord de subvention n°863463</a>"
+  }
+}

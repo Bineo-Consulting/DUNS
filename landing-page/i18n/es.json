@@ -1,0 +1,27 @@
+{
+  "home_title": "Toda la biodiversidad<br/>en un único lugar",
+  "observations": "observaciones",
+  "last_obersations": "Últimas observaciones",
+  "need_login": "Debes estar logueado",
+  "share": "Compartir",
+  "social": "en redes sociales",
+  "english": "Inglés",
+  "spanish": "Español",
+  "french": "Francés",
+  "german": "Alemán",
+  "no_results": "Sin resultados",
+  "alert": "Alerta",
+  "contact": "Contacto",
+  "more_info": "Más info",
+  "errorSearch": "Error en la búsqueda",
+  "selectSpeciePlace": "Debes seleccionar una especie o un lugar del listado.",  
+  "footer": {
+    "about": "Acerca de",
+    "help": "Ayuda",
+    "privacy": "Política de privacidad",
+    "term": "Términos de Servicio",
+    "contact": "Contacto",
+    "follow_us": "Síganos:",
+    "h2020": "Este proyecto ha recibido fondos de Programa Horizon H2020 de Investigación e Innovación de la Unión Europea bajo el <a class='link' href='https://cordis.europa.eu/project/id/863463/es' rel='noopener' target='_blank'>Acuerdo No 863463</a>"
+  }
+}

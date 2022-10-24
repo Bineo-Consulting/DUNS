@@ -148,6 +148,9 @@
 	width: 64%;
 	height: 73.7%;
 	transform: perspective(500px) rotateY(-15deg) rotateX(8deg) rotateZ(-1deg);
+  background-image: url(/images/favicon.svg);
+  background-position: -41% 40%;
+  background-blend-mode: soft-light;
 }
 
 .hero-figure-box-06 {
